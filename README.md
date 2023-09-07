@@ -2,6 +2,8 @@
 
 🚀 Unveiling the Smart Contract Magic: Create Your Own Rug Pull Coin!
 
+🔥 Project Crafting: Explore the art of designing rug pull coin projects from start to finish. Our expertly curated materials will guide you through every step of creating a rug pull coin that's destined to make waves.
+
 Are you ready to dive into the exciting world of blockchain? 
 
 🌐 Have you ever wondered how those thrilling rug pull coins are crafted? Look no further, because we've got the ultimate tutorial that will take you on a roller-coaster ride through the creation of your very own rug pull coin smart contract!
